@@ -1,0 +1,13 @@
+.App {
+  display: grid;
+  grid-template-areas:
+  "h h"
+  "n p";
+
+  grid-auto-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+
+  margin-right: 100px;
+  margin: 10px 20px;
+}
