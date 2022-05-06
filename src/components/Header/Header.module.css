@@ -1,0 +1,26 @@
+.header {
+    grid-area: h;
+    background-color: #F8F9FA;
+
+}
+
+.elements {
+    display: flex;
+    margin: 10px 10px;
+}
+
+.text {
+    line-height: 35px;
+    margin-left: 20px;
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/412/377/original/coffee-cup-logo-coffee-shop-icon-design-free-vector.jpg");
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff;
+}

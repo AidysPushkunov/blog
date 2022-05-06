@@ -1,19 +1,39 @@
-.posts {
-
-}
-
 .user {
     margin: 50px;
+    background-color: #fff;
+    padding: 10px 20px;
+}
+
+.info {
+    display: flex;
 }
 
 .avatar {
     border-radius: 50%;
     width: 50px;
     height: 50px;
-    background: #fff url("https://s5.cdn.teleprogramma.pro/wp-content/uploads/2020/01/a76ebd11ecf1ab90a360b056f49b90a0.jpg") center no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: 70px;
 }
 
-.info {
+.name {
+    margin: 10px 20px;
+    color: #4f4f4f;
+    font-size: 20px;
+}
+.text {
+    color: #4f4f4f;
+}
 
+.text h2 {
+    margin: 10px 20px;
+    color: #4f4f4f;
+}
+
+.text p {
+    font-size: 17px;
+    text-align: justify;
+    margin: 10px 20px;
+    color: #4f4f4f;
 }

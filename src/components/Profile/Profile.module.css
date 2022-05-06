@@ -1,16 +1,5 @@
-.navbar {
+.profile {
+    grid-area: p;
     background-color: #F8F9FA;
-}
 
-.item li{
-    list-style: none;
-}
-
-.item a {
-    text-decoration: none;
-    color: #363636;
-}
-
-.item a:hover {
-    color: #000000;
 }
